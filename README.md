@@ -5,7 +5,7 @@ https://www.taniarascia.com/getting-started-with-react/
 ## Deployment to Github:
 
 -   Add to package.json:
-    `"homepage": "https://mannhuynh.github.io/react-tutorial",`
+    `"homepage": "https://mannhuynh.github.io/crud-react-app/",`
 
     `"scripts": { // ... "predeploy": "npm run build", "deploy": "gh-pages -d build" }`
 
@@ -16,7 +16,7 @@ https://www.taniarascia.com/getting-started-with-react/
 
 ## Demo:
 
-https://mannhuynh.github.io/react-tutorial/
+https://mannhuynh.github.io/crud-react-app/
 
 # Getting Started with Create React App
 
